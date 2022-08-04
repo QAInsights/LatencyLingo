@@ -20,7 +20,7 @@ latency-lingo-cli publish \
 ```
 
 ```
-latency-lingo-cli publish --file Run2.log \
+latency-lingo-cli publish --file Run1.log \
 --label "Hello Secret Lingo Report" \
 --api-key 8f5c6b36-086b-5555-b6e7-999999999999
 
