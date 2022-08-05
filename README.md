@@ -15,7 +15,7 @@ jmeter -n -t example.jmx -l Run1.log
 
 latency-lingo-cli publish \
 --file Run1.log \
---label "Hello Pubic Lingo Report"
+--label "Hello Public Lingo Report"
 
 ```
 
